@@ -3,7 +3,7 @@ source('katex.r', encoding = 'utf-8')
 
 shinyUI(fluidPage(
       titlePanel('Cálculo Erro tipo II'),
-      includeCSS("estilo.css"),
+      includeCSS("www/estilo.css"),
       KaTeX(),
       sidebarLayout(
          sidebarPanel(
