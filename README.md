@@ -1,1 +1,6 @@
-# shiny_EST_erroii
+# shiny-EST-erroii
+
+```r
+library(shiny)
+runGitHub("shiny-EST-erroii", "cesarep")
+```
